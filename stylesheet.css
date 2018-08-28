@@ -7,7 +7,7 @@ h1 {
     align: center;
 }
 
-img {
-    margin-auto: 50%;
-    margin-top: 50px;
+.center {
+    display: table-cell;
+    vertical-align: middle;
 }
