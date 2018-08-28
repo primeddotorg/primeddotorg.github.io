@@ -2,12 +2,6 @@ body {
     background: #090909;
 }
 
-h1 {
-    color: black;
-    margin-auto: 50%;
-    align: center;
-}
-
 .center {
     display: block;
     margin-left: auto;
